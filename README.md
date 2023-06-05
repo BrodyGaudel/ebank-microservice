@@ -2,6 +2,10 @@
 
 L'application e-Bank est une application bancaire basée sur une architecture à microservices. Elle offre des fonctionnalités de gestion des clients, des comptes bancaires et des opérations (crédit, débit, transfert). Elle est développée en utilisant Java 17, Spring Boot, Spring Cloud et Maven.
 
+<p  align="center">
+<img src="https://raw.githubusercontent.com/BrodyGaudel/ebank-cqrs-es-microservice/cf3bb833abbdc7e9b9db83d8d40c1bc73ad9de85/microservice.jpg?token=GHSAT0AAAAAAB54F5TFIUPWQBBQA4IYIPN6ZDMBLWQ">             
+<br>
+
 ## Microservice : Gestion des clients
 Service de gestion des clients : Ce microservice est responsable de la gestion des informations relatives aux clients. Il permet de créer, mettre à jour, récupérer et supprimer des données de clients. Il est accessible via http://localhost:8801/swagger-ui.html
 
