@@ -43,17 +43,17 @@ L'architecture à microservices est un style d'architecture logicielle qui struc
 
 Voici les principales caractéristiques de l'architecture à microservices :
 
-1. Découpage en services autonomes : Chaque microservice est une unité logique autonome qui peut être développée, déployée et mise à l'échelle indépendamment des autres. Cela permet aux équipes de développement de travailler de manière isolée sur un service spécifique, en utilisant les technologies et les langages de programmation qui conviennent le mieux.
+1. **Découpage en services autonomes :** Chaque microservice est une unité logique autonome qui peut être développée, déployée et mise à l'échelle indépendamment des autres. Cela permet aux équipes de développement de travailler de manière isolée sur un service spécifique, en utilisant les technologies et les langages de programmation qui conviennent le mieux.
 
-2. Communication via des interfaces : Les microservices communiquent entre eux en utilisant des interfaces bien définies, telles que les API REST. Cela permet une intégration souple et modulaire des services, facilitant ainsi l'évolution et la maintenance de l'application.
+2. **Communication via des interfaces :** Les microservices communiquent entre eux en utilisant des interfaces bien définies, telles que les API REST. Cela permet une intégration souple et modulaire des services, facilitant ainsi l'évolution et la maintenance de l'application.
 
-3. Distribution et scalabilité : Les microservices peuvent être déployés et exécutés de manière distribuée sur différents serveurs ou conteneurs. Cela permet une meilleure utilisation des ressources et facilite la mise à l'échelle individuelle des services en fonction de la demande.
+3. **Distribution et scalabilité :** Les microservices peuvent être déployés et exécutés de manière distribuée sur différents serveurs ou conteneurs. Cela permet une meilleure utilisation des ressources et facilite la mise à l'échelle individuelle des services en fonction de la demande.
 
-4. Indépendance technologique : Chaque microservice peut être développé en utilisant des technologies et des frameworks différents, selon les besoins spécifiques du service. Cela permet de choisir la technologie la plus adaptée à chaque tâche, sans être contraint par une technologie unique pour toute l'application.
+4. **Indépendance technologique :** Chaque microservice peut être développé en utilisant des technologies et des frameworks différents, selon les besoins spécifiques du service. Cela permet de choisir la technologie la plus adaptée à chaque tâche, sans être contraint par une technologie unique pour toute l'application.
 
-5. Gestion décentralisée des données : Chaque microservice peut avoir sa propre base de données ou utiliser des mécanismes de stockage appropriés pour ses besoins. Les services peuvent gérer leurs propres données de manière indépendante, en garantissant une isolation des données entre les services.
+5. **Gestion décentralisée des données :** Chaque microservice peut avoir sa propre base de données ou utiliser des mécanismes de stockage appropriés pour ses besoins. Les services peuvent gérer leurs propres données de manière indépendante, en garantissant une isolation des données entre les services.
 
-L'architecture à microservices offre plusieurs avantages, tels que la flexibilité, la facilité de déploiement et de mise à l'échelle, la résilience et la résistance aux pannes, ainsi qu'une meilleure évolutivité. Cependant, elle introduit également des défis tels que la gestion de la communication inter-services, la coordination des transactions distribuées et le suivi de la cohérence des données à travers les services. Ces défis nécessitent une bonne conception et une architecture adaptée pour tirer pleinement parti des avantages des microservices.
+L'architecture à microservices offre plusieurs avantages, tels que la **flexibilité**, **la facilité de déploiement et de mise à l'échelle**, la **résilience et la résistance aux pannes**, ainsi qu'une **meilleure évolutivité**. Cependant, elle introduit également des défis tels que la gestion de la communication inter-services, la coordination des transactions distribuées et le suivi de la cohérence des données à travers les services. Ces défis nécessitent une bonne conception et une architecture adaptée pour tirer pleinement parti des avantages des microservices.
 
 ## Auteur
 Brody Gaudel MOUNANGA BOUKA
